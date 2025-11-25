@@ -10,6 +10,9 @@ https://docs.px4.io
 ## ArduPilot documents
 https://aroupilot.org
 
+## QGroundControl
+http://qgroundcontrol.com
+
 ## project env : Ubuntu 24.04
 
 
