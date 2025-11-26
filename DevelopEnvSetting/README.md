@@ -1,6 +1,6 @@
 # Development Env Setting
 
-## PX4 SITL
+## PX4
 
 ```bash
 # PX4 source code
