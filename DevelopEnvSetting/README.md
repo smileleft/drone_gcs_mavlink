@@ -3,7 +3,7 @@
 ## PX4
 
 ```bash
-# PX4 source code
+# PX4 source code download
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
 
 # Install Dependency
